@@ -1,0 +1,204 @@
+{
+	"files": [
+		{
+			"path": "materi/day1.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 0,
+					"label": "Pengenalan Typescript"
+				},
+				{
+					"line": 33,
+					"column": 2,
+					"label": "TEMPLATE LITERALS"
+				},
+				{
+					"line": 40,
+					"column": 2,
+					"label": "NUMBER BUILDIN METHOD"
+				},
+				{
+					"line": 56,
+					"column": 20,
+					"label": "BOOLEAN CONVERSION"
+				},
+				{
+					"line": 75,
+					"column": 4,
+					"label": "DATE"
+				},
+				{
+					"line": 83,
+					"column": 0,
+					"label": "SET METHOD"
+				},
+				{
+					"line": 91,
+					"column": 13,
+					"label": "BASIC OPRATOR"
+				},
+				{
+					"line": 109,
+					"column": 15,
+					"label": "MODIFY IN PLACE"
+				},
+				{
+					"line": 117,
+					"column": 21,
+					"label": "INCREMENT & DECREMENT"
+				},
+				{
+					"line": 124,
+					"column": 16,
+					"label": "POSTFIX & PREFIX"
+				},
+				{
+					"line": 130,
+					"column": 20,
+					"label": "COMPARASION OPERATOR"
+				},
+				{
+					"line": 148,
+					"column": 0,
+					"label": "PSEUDOCODE"
+				},
+				{
+					"line": 167,
+					"column": 7,
+					"label": "MATH"
+				}
+			]
+		},
+		{
+			"path": "materi/day1.js",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 2,
+					"label": "Hello World"
+				},
+				{
+					"line": 20,
+					"column": 3,
+					"label": "VARIABLE NAMMING"
+				},
+				{
+					"line": 31,
+					"column": 2,
+					"label": "DATA TYPES"
+				}
+			]
+		},
+		{
+			"path": "excercise/day1.ts",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 2,
+					"label": "Soal 1"
+				},
+				{
+					"line": 12,
+					"column": 2,
+					"label": "Soal 2"
+				},
+				{
+					"line": 24,
+					"column": 2,
+					"label": "Soal 3"
+				},
+				{
+					"line": 44,
+					"column": 2,
+					"label": "Soal 4"
+				},
+				{
+					"line": 56,
+					"column": 2,
+					"label": "Soal 5"
+				},
+				{
+					"line": 80,
+					"column": 2,
+					"label": "Soal 6"
+				}
+			]
+		},
+		{
+			"path": "materi/day2.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 13,
+					"label": ""
+				},
+				{
+					"line": 11,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 23,
+					"column": 19,
+					"label": ""
+				},
+				{
+					"line": 39,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 58,
+					"column": 17,
+					"label": ""
+				},
+				{
+					"line": 96,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 122,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 188,
+					"column": 9,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "excercise/day2.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 14,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 35,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 56,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 88,
+					"column": 6,
+					"label": ""
+				}
+			]
+		}
+	]
+}
