@@ -164,7 +164,7 @@
 					"label": ""
 				},
 				{
-					"line": 188,
+					"line": 192,
 					"column": 9,
 					"label": ""
 				}
@@ -196,6 +196,66 @@
 				{
 					"line": 88,
 					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "excercise/day3.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 16,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 33,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 42,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 52,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 91,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 110,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 125,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 136,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 153,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 168,
+					"column": 9,
 					"label": ""
 				}
 			]

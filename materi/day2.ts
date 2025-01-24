@@ -2,7 +2,7 @@
  IF STATEMENT
  */
 
-const age: number = 20;
+const age: number = 16;
 
 if (age >= 17) {
   console.log("anda bisa buat KTP");
@@ -141,8 +141,12 @@ statement2: mendefine kondisi dari looping tersebut
 statement3: kode yg di eksekusi diakhir setiap iterasi
  }
  */
-for (let i = 0; i < 6; i++) {
+for (let i = 0; i < 6; i=i+1) {
   console.log("Hello! ");
+}
+
+for (let i = 6; i > 0; i--) {
+  console.log(i);
 }
 
 // WHILE LOOP
