@@ -25,7 +25,7 @@ let reverse: string = "";
 for (let i = input2.length - 1; i >= 0; i--) {
     reverse += input2[i];
 }
-let output2 = input2 === reverse ? "palindrome" : "not palindrome");
+let output2 = input2 === reverse ? "palindrome" : "not palindrome";
 console.log(output2);
 
 
@@ -121,6 +121,8 @@ for (let i = 0; i < input7.length; i++) {
         output7 += input7[i].toUpperCase();
     }
 }
+console.log(output7);
+
 
 /*
 Soal - 08
@@ -129,7 +131,7 @@ Soal - 08
 */
 const input8_1: number = 42;
 const input8_2: number = 27;
-let output8: number = input8_1>input8_2 ? input8_1 : input8_2;
+const output8: number = input8_1>input8_2 ? input8_1 : input8_2;
 console.log(output8);
 
 
@@ -156,13 +158,14 @@ Soal - 10
 type.
 ○ Example : “hello” → 1
 */
-const input10: any = "hello";
+const input10: any = 8;
 let output10: number = 3;
 if (typeof input10 === "string") {
     output10 = 1;
 } else if (typeof input10 === "number") {
     output10 = 2;
 }
+
 console.log(output10);
 
 /*
