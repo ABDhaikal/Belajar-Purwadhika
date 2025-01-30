@@ -259,6 +259,76 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "materi/day 4.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 6,
+					"label": ""
+				},
+				{
+					"line": 33,
+					"column": 10,
+					"label": ""
+				},
+				{
+					"line": 89,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 101,
+					"column": 21,
+					"label": ""
+				},
+				{
+					"line": 321,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 365,
+					"column": 15,
+					"label": ""
+				},
+				{
+					"line": 385,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 415,
+					"column": 15,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "excercise/day4.ts",
+			"bookmarks": [
+				{
+					"line": 12,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 28,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 50,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 73,
+					"column": 7,
+					"label": ""
+				}
+			]
 		}
 	]
 }
