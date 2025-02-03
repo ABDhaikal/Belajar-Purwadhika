@@ -289,17 +289,17 @@
 					"label": ""
 				},
 				{
-					"line": 365,
+					"line": 366,
 					"column": 15,
 					"label": ""
 				},
 				{
-					"line": 385,
+					"line": 386,
 					"column": 8,
 					"label": ""
 				},
 				{
-					"line": 415,
+					"line": 416,
 					"column": 15,
 					"label": ""
 				}
@@ -324,8 +324,128 @@
 					"label": ""
 				},
 				{
-					"line": 73,
+					"line": 72,
 					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 97,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 117,
+					"column": 7,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "excercise/day5.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 28,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 53,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 73,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 95,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 118,
+					"column": 1,
+					"label": ""
+				},
+				{
+					"line": 132,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 158,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 172,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 208,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 223,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 240,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 262,
+					"column": 0,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "materi/day5.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 18,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 27,
+					"column": 18,
+					"label": ""
+				},
+				{
+					"line": 32,
+					"column": 17,
+					"label": ""
+				},
+				{
+					"line": 36,
+					"column": 2,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "materi/day 6.ts",
+			"bookmarks": [
+				{
+					"line": 1,
+					"column": 5,
 					"label": ""
 				}
 			]

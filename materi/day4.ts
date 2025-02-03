@@ -167,7 +167,7 @@ SPLICE
 const months: string[] = ["jan", "mar", "apr", "jun"];
 
 // to add data into in the middle of array
-months.splice(1, 0, "feb");
+months.splice(0, 1, "feb");
 console.log(months);
 
 // to delete data in the middle of array
@@ -360,6 +360,7 @@ function myFunc(param1: number, param2: number, ...paraminv: number[]) {
 }
 
 myFunc(1, 2, 3, 4, 5, 6, 7);
+
 
 /*
 NESTED FUNCTION
