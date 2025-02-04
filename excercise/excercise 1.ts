@@ -1,25 +1,5 @@
-let n=10
+const array1 = [5, 12, 8, 130, 44];
 
-let pre  =1
-let curr =1
-let temp =0;
-for (let i = 1; i < n; i++) {
-  temp = curr
-  curr = curr+pre
-  pre = temp
-  console.log(curr);
-  
-}
+const gett = array1.find((x) => x === 6);
 
-console.log(curr);
-
-
-let a = [1,2,1,2,2]
-
-console.log(a.reverse());
-
-
-[9,9,9,9,9,9,9]
-[9,9,9,9]
-[8,9,9,9,0,0,0,1]
-
+console.log(gett);
