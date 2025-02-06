@@ -109,20 +109,15 @@ school.seeOutput();
 */
 
 class Product {
- name: string;
- price: number;
- constructor(name: string, Price: number) {
-  this.name = name;
-  this.price = Price;
- }
+  constructor(private name: string, private price: number) {}
 
- public get Name(): string {
-  return this.name;
- }
+  public get Name(): string {
+    return this.name;
+  }
 
- public get Price(): number {
-  return this.price;
- }
+  public get Price(): number {
+    return this.price;
+  }
 }
 
 class Transaction {

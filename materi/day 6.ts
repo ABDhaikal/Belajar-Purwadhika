@@ -137,7 +137,7 @@ class Employee {
 
  constructor(name: string, salary: number) {
   this.name = name;
-  this.salary = salary;
+  this.salary = salary; 
  }
  work() {
   console.log(`${this.name} is working`);

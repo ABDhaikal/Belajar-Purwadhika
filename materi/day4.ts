@@ -167,7 +167,7 @@ SPLICE
 const months: string[] = ["jan", "mar", "apr", "jun"];
 
 // to add data into in the middle of array
-months.splice(0, 1, "feb");
+months.splice(0, 0, "feb");
 console.log(months);
 
 // to delete data in the middle of array

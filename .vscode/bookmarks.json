@@ -449,6 +449,36 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "excercise/day7.ts",
+			"bookmarks": [
+				{
+					"line": 0,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 29,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 48,
+					"column": 5,
+					"label": ""
+				},
+				{
+					"line": 76,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 106,
+					"column": 9,
+					"label": ""
+				}
+			]
 		}
 	]
 }
